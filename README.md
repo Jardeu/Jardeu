@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Jardeu/Jardeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jardeu Vicente
 
-Here are some ideas to get you started:
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação :heart_eyes:.
+Sou um FullStack Developer :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na empresa **Construtor Digital**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando HTML, CSS e JS e com projetos em Back-end usando PHP
+ <br/> :blush: &nbsp; Posso te ajudar com CSS.
+ <br/> :computer: &nbsp; Minha stack: PHP, Codeigniter
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, filmes e series
+ <br/> :email: &nbsp; Entre em contato comigo: 
+[![Gmail Badge](https://img.shields.io/badge/-vicentejardeu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vicentejardeu@gmail.com)](mailto:vicentejardeu@gmail.com)
+
