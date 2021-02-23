@@ -5,7 +5,7 @@
 Sou apaixonado por resolver problemas utilizando a programação :heart_eyes:.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na empresa **Construtor Digital**
+   &nbsp; Estou trabalhando na empresa **Construtor Digital**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando HTML, CSS e JS e com projetos em Back-end usando PHP
  <br/> :blush: &nbsp; Posso te ajudar com CSS.
  <br/> :computer: &nbsp; Minha stack: PHP, Codeigniter.
