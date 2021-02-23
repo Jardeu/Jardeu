@@ -9,7 +9,7 @@ Sou um FullStack Developer :computer:
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando HTML, CSS e JS e com projetos em Back-end usando PHP
  <br/> :blush: &nbsp; Posso te ajudar com CSS.
  <br/> :computer: &nbsp; Minha stack: PHP, Codeigniter.
- <br/> :books: Estou estudando atualmente React e Node.js.
+ <br/> :books: &nbsp; Estou estudando atualmente React e Node.js.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, filmes e series.
  <br/> :email: &nbsp; Entre em contato comigo: 
 [![Gmail Badge](https://img.shields.io/badge/-vicentejardeu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vicentejardeu@gmail.com)](mailto:vicentejardeu@gmail.com)
