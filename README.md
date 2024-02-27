@@ -4,7 +4,6 @@
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação :heart_eyes:.
 Sou um FullStack Developer :computer:
- <br/> :computer: &nbsp; Minha stack: NodeJs, Angular.
  <br/> :books: &nbsp; Estou estudando atualmente Spring Boot.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, filmes e series.
  <br/> :email: &nbsp; Entre em contato comigo: 
